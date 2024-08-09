@@ -7,6 +7,8 @@ With over 10 years of experience in the IT industry, I am a dedicated software e
 [![Gmail Badge](https://img.shields.io/badge/-gtideman92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtideman92@gmail.com)](mailto:gtideman92@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavo_tideman/)](https://www.instagram.com/gustavo_tideman/)
 
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,vscode,azure,aws,terraform,angular,ts,js,git,githubactions,powershell,bash,linux,docker,kubernetes,postman,kafka,rabbitmq,redis)](https://skillicons.dev)
+
 <!--
 <p align="center">
   
